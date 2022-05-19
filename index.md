@@ -16,8 +16,8 @@ title: Dennis Sun的个人博客
 * 2015.9 ~ 2018.5 University Of Wisconsin-Madison MS in Computer Science / Industrial Engineering (Operations Research direction)
 
 ## 项目
-- (QMS benchmarking for Data Ingestion)[https://github.com/Dennis-Sun/project]
-- (Implementation of Seam Carving)[https://github.com/Dennis-Sun/cvproject]
+(QMS benchmarking for Data Ingestion)[https://github.com/Dennis-Sun/project]
+(Implementation of Seam Carving)[https://github.com/Dennis-Sun/cvproject]
 
 ## 联系方式
 Email: sunshuo963@gmail.com
