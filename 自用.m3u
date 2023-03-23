@@ -319,7 +319,7 @@ https://epg.112114.xyz/huya/869801
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/face/201603/3860e56bd752beda1951aae20dfdb183_big.jpg" group-title="斗鱼",白白的胖胖呀
 https://epg.112114.xyz/douyu/501761
 
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/9843b3745f1644debd0890475891b94e_big.jpg" group-title="斗鱼",安神豆腐渣
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202211/b654e250e0ef472e9edfe7e2f7f4b51a_big.jpg" group-title="斗鱼",安神豆腐渣
 https://epg.112114.xyz/douyu/916749
 
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202110/c36c850e141846da95f5a781c416a2f1_big.jpg" group-title="斗鱼",超级小桀
@@ -337,3 +337,17 @@ https://epg.112114.xyz/douyu/96603
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202210/f835c353260d4d48a262ffc6c9141cc2_big.jpg" group-title="斗鱼",KazeLink
 https://epg.112114.xyz/douyu/510541
 
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202204/d51bfb7151084819a59d90bf53a6957a_big.jpg" group-title="斗鱼", 哈尼她姐
+http://live.aptvapp.com/live/douyu/5132174
+
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/002/48/83/16_avatar_big.jpg" group-title="斗鱼", 寅子
+http://live.aptvapp.com/live/douyu/71415
+
+#EXTINF:-1 group-title="未分类",「上海」法治天地
+http://183.207.255.188/live/program/live/fztd/1300000/mnf.m3u8?zshangd
+
+#EXTINF:-1 group-title="未分类",SiTV法治天地
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/fztd/1300000/mnf.m3u8
+
+#EXTINF:-1 group-title="未分类",SiTV法治天地
+http://183.207.255.188/live/program/live/fztd/1300000/mnf.m3u8
