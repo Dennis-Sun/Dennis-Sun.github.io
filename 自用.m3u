@@ -354,3 +354,6 @@ http://live.aptvapp.com/ghyx.php?id=FaZhiTianDiHD_2000
 
 #EXTINF:-1,tvg-id="SITV法治天地" tvg-name="SITV法治天地" tvg-logo="https://epg.112114.xyz/logo/SITV法治天地.png" group-title="未分类",法治天地
 http://live.aptvapp.com/sxg.php?id=fztx_4000
+
+#EXTINF:-1 tvg-name="法治天地" group-title="IPV6•数字",SiTV法治天地「IPV6」•支持回看
+http://[2409:8087:4402:20:1:1216:401:38]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226340/index.m3u8
