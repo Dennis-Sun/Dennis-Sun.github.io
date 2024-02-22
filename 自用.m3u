@@ -343,20 +343,36 @@ http://live.aptvapp.com/live/douyu/5132174
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/002/48/83/16_avatar_big.jpg" group-title="斗鱼", 寅子
 http://live.aptvapp.com/live/douyu/71415
 
-#EXTINF:-1 group-title="未分类",SiTV法治天地
-http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/fztd/1300000/mnf.m3u8
-
-#EXTINF:-1 group-title="未分类",SiTV法治天地
-http://183.207.255.188/live/program/live/fztd/1300000/mnf.m3u8
-
-#EXTINF:-1,tvg-id="SITV法治天地" tvg-name="SITV法治天地" tvg-logo="https://epg.112114.xyz/logo/SITV法治天地.png" group-title="未分类",法治天地 标清
-http://live.aptvapp.com/ghyx.php?id=FaZhiTianDiHD_2000
-
-#EXTINF:-1,tvg-id="SITV法治天地" tvg-name="SITV法治天地" tvg-logo="https://epg.112114.xyz/logo/SITV法治天地.png" group-title="未分类",法治天地
-http://live.aptvapp.com/sxg.php?id=fztx_4000
-
 #EXTINF:-1,tvg-id="SITV法治天地" tvg-name="SITV法治天地" tvg-logo="https://epg.112114.xyz/logo/SITV法治天地.png" group-title="未分类",法治天地
 http://119.54.2.125:58000/hls/94/index.m3u8
 
-#EXTINF:-1 tvg-name="法治天地" group-title="IPV6•数字",SiTV法治天地「IPV6」•支持回看
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001195/index.m3u8?
+#EXTINF:-1,tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://epg.112114.eu.org/logo/重温经典.png" group-title="央视",重温经典
+http://148.135.93.213:81/live.php?id=重温经典
+
+#EXTINF:-1,tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://epg.112114.eu.org/logo/世界地理.png" group-title="央视IPV4",CCTV世界地理
+http://148.135.93.213:81/live.php?id=世界地理
+#EXTINF:-1,tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://epg.112114.eu.org/logo/兵器科技.png" group-title="央视IPV4",CCTV兵器科技
+http://148.135.93.213:81/live.php?id=兵器科技
+#EXTINF:-1,tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://epg.112114.eu.org/logo/央视台球.png" group-title="央视IPV4",CCTV央视台球
+http://148.135.93.213:81/live.php?id=央视台球
+#EXTINF:-1,tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://epg.112114.eu.org/logo/女性时尚.png" group-title="央视IPV4",CCTV女性时尚
+http://148.135.93.213:81/live.php?id=女性时尚
+#EXTINF:-1,tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://epg.112114.eu.org/logo/怀旧剧场.png" group-title="央视IPV4",CCTV怀旧剧场
+http://148.135.93.213:81/live.php?id=怀旧剧场
+#EXTINF:-1,tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://epg.112114.eu.org/logo/文化精品.png" group-title="央视IPV4",CCTV文化精品
+http://148.135.93.213:81/live.php?id=文化精品
+#EXTINF:-1,tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://epg.112114.eu.org/logo/电视指南.png" group-title="央视IPV4",CCTV电视指南
+http://148.135.93.213:81/live.php?id=电视指南
+#EXTINF:-1,tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://epg.112114.eu.org/logo/第一剧场.png" group-title="央视IPV4",CCTV第一剧场
+http://148.135.93.213:81/live.php?id=第一剧场
+#EXTINF:-1,tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://epg.112114.eu.org/logo/风云剧场.png" group-title="央视IPV4",CCTV风云剧场
+http://148.135.93.213:81/live.php?id=风云剧场
+#EXTINF:-1,tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://epg.112114.eu.org/logo/风云足球.png" group-title="央视IPV4",CCTV风云足球
+http://148.135.93.213:81/live.php?id=风云足球
+#EXTINF:-1,tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://epg.112114.eu.org/logo/风云音乐.png" group-title="央视IPV4",CCTV风云音乐
+http://148.135.93.213:81/live.php?id=风云音乐
+#EXTINF:-1,tvg-id="央视高网" tvg-name="央视高网" tvg-logo="https://epg.112114.eu.org/logo/高尔夫网球.png" group-title="央视IPV4",CCTV高尔夫网球
+http://148.135.93.213:81/live.php?id=央视高网
+
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.eu.org/logo/翡翠台.png" group-title="卫视IPV4",翡翠台
+http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
